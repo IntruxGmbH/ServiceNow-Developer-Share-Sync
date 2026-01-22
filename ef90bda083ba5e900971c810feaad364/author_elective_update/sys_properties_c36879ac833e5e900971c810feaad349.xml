@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_376096_sync_hash.now_share_alias_sys_id</name>
+        <read_roles/>
+        <suffix>now_share_alias_sys_id</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2024-12-27 15:34:57</sys_created_on>
+        <sys_id>c36879ac833e5e900971c810feaad349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376096_sync_hash.now_share_alias_sys_id</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_update_name>sys_properties_c36879ac833e5e900971c810feaad349</sys_update_name>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2024-12-27 15:34:57</sys_updated_on>
+        <type>string</type>
+        <value>30bb57c993285610e02873718bba1089</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=c36879ac833e5e900971c810feaad349"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</application>
+        <file_path/>
+        <instance_id>848883c0dbda39d44162684e139619fd</instance_id>
+        <instance_name>dev198287</instance_name>
+        <name>sys_properties_c36879ac833e5e900971c810feaad349</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_376096_sync_hash.now_share_alias_sys_id</name>
+        <read_roles/>
+        <suffix>now_share_alias_sys_id</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2024-12-27 15:34:57</sys_created_on>
+        <sys_id>c36879ac833e5e900971c810feaad349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376096_sync_hash.now_share_alias_sys_id</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_update_name>sys_properties_c36879ac833e5e900971c810feaad349</sys_update_name>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2024-12-27 15:34:57</sys_updated_on>
+        <type>string</type>
+        <value>30bb57c993285610e02873718bba1089</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=c36879ac833e5e900971c810feaad349"/>
+</record_update>]]></payload>
+        <payload_hash>259471285</payload_hash>
+        <record_name>x_376096_sync_hash.now_share_alias_sys_id</record_name>
+        <reverted_from/>
+        <source>ac570b74c3e23e10de14d8477d0131a9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>markus.kraus@intrux.ch</sys_created_by>
+        <sys_created_on>2026-01-17 22:04:27</sys_created_on>
+        <sys_id>d5574b74c3e23e10de14d8477d01317a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bcdfcfb110000001</sys_recorded_at>
+        <sys_updated_by>markus.kraus@intrux.ch</sys_updated_by>
+        <sys_updated_on>2026-01-17 22:04:27</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>95574b74a8e23e10ec4dea645c28267a</update_guid>
+        <update_guid_history>95574b74a8e23e10ec4dea645c28267a:259471285</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2026-01-22 19:01:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>411bc19fc22b4f5a8e899505f5862244</sys_id>
+        <sys_metadata>c36879ac833e5e900971c810feaad349</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376096_sync_hash.now_share_alias_sys_id</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_scope_delete display_value="">545948b17b4f4cfbbf15d6eccc7b99c9</sys_scope_delete>
+        <sys_update_name>sys_properties_c36879ac833e5e900971c810feaad349</sys_update_name>
+        <sys_update_version display_value="sys_properties_c36879ac833e5e900971c810feaad349">d5574b74c3e23e10de14d8477d01317a</sys_update_version>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2026-01-22 19:01:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

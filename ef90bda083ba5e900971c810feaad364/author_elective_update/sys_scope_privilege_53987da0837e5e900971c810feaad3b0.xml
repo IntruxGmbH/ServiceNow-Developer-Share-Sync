@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>execute</operation>
+        <source_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2024-12-27 15:35:26</sys_created_on>
+        <sys_id>53987da0837e5e900971c810feaad3b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptableStandardCredentialsProvider.getCredentialByAliasID</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_update_name>sys_scope_privilege_53987da0837e5e900971c810feaad3b0</sys_update_name>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2024-12-27 15:35:26</sys_updated_on>
+        <target_name>ScriptableStandardCredentialsProvider.getCredentialByAliasID</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</application>
+        <file_path/>
+        <instance_id>848883c0dbda39d44162684e139619fd</instance_id>
+        <instance_name>dev198287</instance_name>
+        <name>sys_scope_privilege_53987da0837e5e900971c810feaad3b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2024-12-27 15:35:26</sys_created_on>
+        <sys_id>53987da0837e5e900971c810feaad3b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptableStandardCredentialsProvider.getCredentialByAliasID</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_update_name>sys_scope_privilege_53987da0837e5e900971c810feaad3b0</sys_update_name>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2024-12-27 15:35:26</sys_updated_on>
+        <target_name>ScriptableStandardCredentialsProvider.getCredentialByAliasID</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>]]></payload>
+        <payload_hash>1823781979</payload_hash>
+        <record_name>ScriptableStandardCredentialsProvider.getCredentialByAliasID</record_name>
+        <reverted_from/>
+        <source>ac570b74c3e23e10de14d8477d0131a9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>markus.kraus@intrux.ch</sys_created_by>
+        <sys_created_on>2026-01-17 22:04:27</sys_created_on>
+        <sys_id>95574b74c3e23e10de14d8477d013199</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bcdfcfbd90000001</sys_recorded_at>
+        <sys_updated_by>markus.kraus@intrux.ch</sys_updated_by>
+        <sys_updated_on>2026-01-17 22:04:27</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>55574b74cee23e105b76e9688503fa99</update_guid>
+        <update_guid_history>55574b74cee23e105b76e9688503fa99:1823781979</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2026-01-22 19:32:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>06d6637687a04044803207685e4f7e69</sys_id>
+        <sys_metadata>53987da0837e5e900971c810feaad3b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptableStandardCredentialsProvider.getCredentialByAliasID</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_scope_delete display_value="">545948b17b4f4cfbbf15d6eccc7b99c9</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_53987da0837e5e900971c810feaad3b0</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_53987da0837e5e900971c810feaad3b0">95574b74c3e23e10de14d8477d013199</sys_update_version>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2026-01-22 19:32:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

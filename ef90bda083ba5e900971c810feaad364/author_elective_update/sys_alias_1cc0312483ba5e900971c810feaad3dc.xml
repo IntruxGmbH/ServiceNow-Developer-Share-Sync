@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_376096_sync_hash.HashSync</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>HashSync</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2024-12-27 15:02:46</sys_created_on>
+        <sys_id>1cc0312483ba5e900971c810feaad3dc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_376096_sync_hash.HashSync</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_update_name>sys_alias_1cc0312483ba5e900971c810feaad3dc</sys_update_name>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2024-12-27 15:05:02</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</application>
+        <file_path/>
+        <instance_id>848883c0dbda39d44162684e139619fd</instance_id>
+        <instance_name>dev198287</instance_name>
+        <name>sys_alias_1cc0312483ba5e900971c810feaad3dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_376096_sync_hash.HashSync</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>HashSync</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2024-12-27 15:02:46</sys_created_on>
+        <sys_id>1cc0312483ba5e900971c810feaad3dc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_376096_sync_hash.HashSync</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_update_name>sys_alias_1cc0312483ba5e900971c810feaad3dc</sys_update_name>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2024-12-27 15:05:02</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>]]></payload>
+        <payload_hash>1436930950</payload_hash>
+        <record_name>x_376096_sync_hash.HashSync</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>markus.kraus@intrux.ch</sys_created_by>
+        <sys_created_on>2026-01-17 22:04:27</sys_created_on>
+        <sys_id>01574b74c3e23e10de14d8477d01316c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bcdfcfa510000001</sys_recorded_at>
+        <sys_updated_by>markus.kraus@intrux.ch</sys_updated_by>
+        <sys_updated_on>2026-01-17 22:04:27</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>cd574b74cae23e106a915f8f94594a6b</update_guid>
+        <update_guid_history>cd574b74cae23e106a915f8f94594a6b:1436930950</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>markus.kraus</sys_created_by>
+        <sys_created_on>2026-01-22 19:01:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>1dc28e5146a045e0840492459d7f0400</sys_id>
+        <sys_metadata>1cc0312483ba5e900971c810feaad3dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376096_sync_hash.HashSync</sys_name>
+        <sys_package display_value="NOW Sync - Hashes" source="x_376096_sync_hash">ef90bda083ba5e900971c810feaad364</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NOW Sync - Hashes">ef90bda083ba5e900971c810feaad364</sys_scope>
+        <sys_scope_delete display_value="">545948b17b4f4cfbbf15d6eccc7b99c9</sys_scope_delete>
+        <sys_update_name>sys_alias_1cc0312483ba5e900971c810feaad3dc</sys_update_name>
+        <sys_update_version display_value="sys_alias_1cc0312483ba5e900971c810feaad3dc">01574b74c3e23e10de14d8477d01316c</sys_update_version>
+        <sys_updated_by>markus.kraus</sys_updated_by>
+        <sys_updated_on>2026-01-22 19:01:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -12404,6 +12404,14 @@
       {
         "version": "4.0",
         "hash": "71C3B63E3B39E19F11F39A9337DCBD6D966474330DBB8DF1BF370732B9F6D8F7"
+      },
+      {
+        "version": "4.1",
+        "hash": "71C3B63E3B39E19F11F39A9337DCBD6D966474330DBB8DF1BF370732B9F6D8F7"
+      },
+      {
+        "version": "4.12",
+        "hash": "859456C44B70F7D964D563E76F336F455BC1D76B5F6608550EDE02DBC8E27844"
       }
     ]
   },

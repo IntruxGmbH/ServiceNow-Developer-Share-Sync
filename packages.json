@@ -3951,7 +3951,7 @@
   },
   {
     "id": "4964951_devopstools1",
-    "name": "DevOpsTools",
+    "name": "DevOps TooLs",
     "versions": [
       {
         "version": "1.0",
@@ -9494,6 +9494,10 @@
       {
         "version": "1.2",
         "hash": "BA79293AE25DEF2BD0D04931748EB3B3895AE1B577E4DC9152D207CE3C1143B7"
+      },
+      {
+        "version": "1.3",
+        "hash": "E9323FCF45CAFCB9A892EE494DF48F77F431646647EC8EC0A756DDBACA37FDC8"
       }
     ]
   },

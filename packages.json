@@ -10014,6 +10014,16 @@
     ]
   },
   {
+    "id": "3772434_service_portal_widget_to_create_edit_and_delete_delegates",
+    "name": "Service Portal Widget to Create, Edit, and Delete Delegates",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "81C9211EF52E4111DE284111B982E124381DA1D1BED990268D64E0BBE8410D28"
+      }
+    ]
+  },
+  {
     "id": "7932564_service_portal_widget_to_do_data_transformations_using_data_source_and_transform_maps",
     "name": "Service Portal Widget to do Data transformations using data source and transform maps",
     "versions": [

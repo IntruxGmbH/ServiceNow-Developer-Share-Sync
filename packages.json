@@ -714,6 +714,16 @@
     ]
   },
   {
+    "id": "9138792_advanced_bar_chart_race_visualization_widget",
+    "name": "Advanced Bar Chart Race Visualization Widget",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "72F7E02AC5EC336F0C2C37566EB4BF41B467892D29C5413E0E4B083F363CE8BA"
+      }
+    ]
+  },
+  {
     "id": "5299179_advanced_menu_edge_counter_multiple_styles",
     "name": "Advanced Menu & Edge counter (Multiple styles)",
     "versions": [

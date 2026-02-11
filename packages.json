@@ -9392,6 +9392,10 @@
       {
         "version": "2.0",
         "hash": "4ECB0B2D69AB1585B5389E73B3C6D2582CD762AEB617FCCC229D4CBD8C04627F"
+      },
+      {
+        "version": "2.01",
+        "hash": "C599BBC6E133B36B8991BD6E2408B966C9D55B27197F4DFB97848D42FFDCD496"
       }
     ]
   },
@@ -11642,6 +11646,16 @@
       {
         "version": "1.0",
         "hash": "90E2754DEEE496D03F93B36AB52F5FCC3565A5990D64AEB310202C364577FB67"
+      }
+    ]
+  },
+  {
+    "id": "5628973_threshold_monitor",
+    "name": "Threshold Monitor",
+    "versions": [
+      {
+        "version": "2.1",
+        "hash": "3AFC06ACDF635C62C4CC6DBE2A72B1C35CE634558B343F2D8002D99CDEF27209"
       }
     ]
   },

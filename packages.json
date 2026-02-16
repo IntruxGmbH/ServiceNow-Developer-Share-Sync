@@ -4562,6 +4562,16 @@
     ]
   },
   {
+    "id": "9890958_enabling_rich_comments_in_servicenow_beyond_plain_text",
+    "name": "Enabling Rich Comments in ServiceNow (Beyond Plain Text)",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "D179E4AAB563BEF960B77814CC3B9725B7038F291D15CA044089C3B2778EEA36"
+      }
+    ]
+  },
+  {
     "id": "2615395_crowdstrike_detection_playbook",
     "name": "Endpoint Detection Playbook",
     "versions": [
@@ -10056,6 +10066,10 @@
       {
         "version": "2.0",
         "hash": "3798BA5E0643F800DC8B109C37E234DEDC4656D2677B14B9B1BA1BC24C53D1E1"
+      },
+      {
+        "version": "3.0",
+        "hash": "1D1D0CE98AAFA7C86D56B998DA289501DFAECCFEBB55F301F5200C7FC9D88279"
       }
     ]
   },

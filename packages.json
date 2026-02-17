@@ -3338,6 +3338,16 @@
     ]
   },
   {
+    "id": "9890958_custom_attachment_visibility_before_upload_ui16",
+    "name": "Custom Attachment Visibility Before Upload (UI16)",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "2E6C0FB7B0DB697FAE97B3870ADCB0412136033DDF3E2A82FD50DE8B124798CB"
+      }
+    ]
+  },
+  {
     "id": "1655773_custom_autofill_for_incidents",
     "name": "Custom Autofill for Incidents",
     "versions": [

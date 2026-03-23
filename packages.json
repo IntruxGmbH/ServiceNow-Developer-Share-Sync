@@ -9590,6 +9590,10 @@
       {
         "version": "1.1",
         "hash": "225E7324BEDC2FFE347BC952FF15DACD7BBFDB83DBA200F47633F2BF4A38F591"
+      },
+      {
+        "version": "1.2",
+        "hash": "617C84CA8C1FB1C566C7100F3E068F616D04E4027973E3AC04399C9AF5E360FF"
       }
     ]
   },

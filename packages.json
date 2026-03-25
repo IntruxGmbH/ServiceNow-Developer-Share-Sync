@@ -8438,6 +8438,16 @@
     ]
   },
   {
+    "id": "5379381_plugintracker",
+    "name": "PluginTracker",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "7104BA0E54396CB562F1BC350BACFF7423B947D3CCA2D5ECFC5A9EAD32A974B3"
+      }
+    ]
+  },
+  {
     "id": "6249193_podcast",
     "name": "Podcast",
     "versions": [

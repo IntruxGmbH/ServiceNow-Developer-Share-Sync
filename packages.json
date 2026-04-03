@@ -2540,6 +2540,16 @@
     ]
   },
   {
+    "id": "6207413_change_schedule_short_description_column",
+    "name": "Change Schedule — Short Description Column",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "78DCBCAEB9C21B09DFB9F6AD0536A6F8783BBF49E48F3F9058A670457DD30FAC"
+      }
+    ]
+  },
+  {
     "id": "5448222_change_model_change_task_definitions",
     "name": "Change Task Definitions",
     "versions": [

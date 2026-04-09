@@ -4122,6 +4122,16 @@
     ]
   },
   {
+    "id": "1577509_domain_hierarchy_view_in_workspace",
+    "name": "Domain hierarchy view in Workspace",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "7A852AB073D063386F7F6C0ACFE01221933FB2C60E55B2E697B2D643CFB118D3"
+      }
+    ]
+  },
+  {
     "id": "7384875_domain_separation_module_updates_madrid",
     "name": "Domain Separation Module Updates - Madrid",
     "versions": [

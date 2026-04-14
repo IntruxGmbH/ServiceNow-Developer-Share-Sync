@@ -1959,7 +1959,7 @@
   },
   {
     "id": "1762246_bigpanda",
-    "name": "BigPanda",
+    "name": "BigPanda 3.X",
     "versions": [
       {
         "version": "2.101",
@@ -1976,6 +1976,10 @@
       {
         "version": "2.91",
         "hash": "0E5B3B1F1CBB1B7DA6C229FDD294606F53CB1E208AEC70DC16A01867A14010D5"
+      },
+      {
+        "version": "3.06",
+        "hash": "04C296E9D1590F529AC2B9657B9CD822F3F34B6B30AFF25E8A4CD493017F8592"
       }
     ]
   },
@@ -5340,6 +5344,16 @@
       {
         "version": "1.0",
         "hash": "96AFE67F04BFED25BCD32DE83F11A372FD54D9BA540119CFEF9D5CA2B0F6EDFC"
+      }
+    ]
+  },
+  {
+    "id": "5379381_flow_finder_aka_flowfinder",
+    "name": "Flow Finder [a.k.a., flowFinder]",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "6D98E714E222EAF45EC310061DE623037C269F90D0E0C193273C7053B6EE308F"
       }
     ]
   },

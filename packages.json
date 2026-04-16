@@ -8928,6 +8928,16 @@
     ]
   },
   {
+    "id": "9104094_quantum_code_search",
+    "name": "Quantum Code Search",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "3F0C8A8D31806289D2569BA10C8D5641CDA5BCF79B912F7EAA86E5A7422B1633"
+      }
+    ]
+  },
+  {
     "id": "5185213_query_dell_warranty_information",
     "name": "Query Dell Warranty Information",
     "versions": [

@@ -13336,6 +13336,14 @@
       {
         "version": "1.93",
         "hash": "F9CCABF1979FBE2C568143A6949D8D0590F47127FD76F3E839CB6FFB52619E0B"
+      },
+      {
+        "version": "2.0",
+        "hash": "E34A5346971A97849D682ACF6A0A83F48DF429B73D70B86856B6F8D4A3896A25"
+      },
+      {
+        "version": "2.01",
+        "hash": "522F2C5606E01482943C5FF5FB47447DB885294D2D6E2FF0467428B6FDD228AE"
       }
     ]
   }

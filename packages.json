@@ -6314,6 +6314,20 @@
     ]
   },
   {
+    "id": "9815116_industrial_insights_for_cisos",
+    "name": "Industrial Intelligence for ServiceNow Industrial Control Tower",
+    "versions": [
+      {
+        "version": "1.02",
+        "hash": "6DA9CE9B1D6538777BB3C0FDBE55CDF169563376B0CD2CE857ADCCB146461662"
+      },
+      {
+        "version": "1.06",
+        "hash": "6DA9CE9B1D6538777BB3C0FDBE55CDF169563376B0CD2CE857ADCCB146461662"
+      }
+    ]
+  },
+  {
     "id": "1187479_infinite_scroll",
     "name": "Infinite Scroll",
     "versions": [
@@ -9852,16 +9866,6 @@
       {
         "version": "1.0",
         "hash": "8081B5024B8B50EB63E489F25BA4D0B6F4B75E9AF575DB23167205EC2EF7C5A1"
-      }
-    ]
-  },
-  {
-    "id": "9815116_industrial_insights_for_cisos",
-    "name": "Security Insights for Industrial Control Tower",
-    "versions": [
-      {
-        "version": "1.02",
-        "hash": "6DA9CE9B1D6538777BB3C0FDBE55CDF169563376B0CD2CE857ADCCB146461662"
       }
     ]
   },

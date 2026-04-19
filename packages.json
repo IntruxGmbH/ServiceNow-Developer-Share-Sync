@@ -8948,6 +8948,14 @@
       {
         "version": "1.0",
         "hash": "3F0C8A8D31806289D2569BA10C8D5641CDA5BCF79B912F7EAA86E5A7422B1633"
+      },
+      {
+        "version": "1.1",
+        "hash": "13133A3BE7ADB63F35973ECBD7AA479C913888BF6BDBC2B9788E6C4EEED0D288"
+      },
+      {
+        "version": "1.2",
+        "hash": "5593F6ED6B90E1853018E54E8DF85818647AB0C53F8613169B2EFC55B728CA17"
       }
     ]
   },

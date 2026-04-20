@@ -5512,6 +5512,20 @@
     ]
   },
   {
+    "id": "4111542_freelance_rate_calculator_custom_app",
+    "name": "Freelance Rate Calculator - Custom App",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "86C599EEA7200CEE68378AD69F592B20EF6139A9B1455FED8C649F3F4E63BC93"
+      },
+      {
+        "version": "1.2",
+        "hash": "05D6222E437E32ABED96EF228E868FE64123A98908F10E8E8CDCA9BB85CCF957"
+      }
+    ]
+  },
+  {
     "id": "1218582_frequently_asked_questions",
     "name": "Frequently Asked Questions",
     "versions": [

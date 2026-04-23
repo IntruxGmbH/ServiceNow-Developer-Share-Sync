@@ -5536,6 +5536,16 @@
     ]
   },
   {
+    "id": "1477975_friendly_discovery_logs_viewer_xml_to_json_formatter",
+    "name": "Friendly Discovery Logs Viewer (XML to JSON Formatter)",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "557BF2183BBAC6217AB165CE80015BC0212A61AC39CA311361A25F301A3E839E"
+      }
+    ]
+  },
+  {
     "id": "6817131_function_keeper",
     "name": "Function Keeper",
     "versions": [

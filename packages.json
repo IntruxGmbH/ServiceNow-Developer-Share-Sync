@@ -128,16 +128,6 @@
     ]
   },
   {
-    "id": "3108109_servicenow_raycast_extension",
-    "name": "ACLs for Raycast Extension",
-    "versions": [
-      {
-        "version": "1.0",
-        "hash": "1C9C284C544714106B7FD4C0187E7F17F82EBB04CE0A44C2654FB40EE406157C"
-      }
-    ]
-  },
-  {
     "id": "5258606_action_table",
     "name": "Action Table",
     "versions": [
@@ -9122,6 +9112,16 @@
       {
         "version": "1.0",
         "hash": "FA8D0C99AC9F8276EC55E4D6D721F0172025E882EDCBC8531EDDEEE986786582"
+      }
+    ]
+  },
+  {
+    "id": "3108109_servicenow_raycast_extension",
+    "name": "Raycast Extension – ACLs for Non-Admin Users",
+    "versions": [
+      {
+        "version": "1.0",
+        "hash": "1C9C284C544714106B7FD4C0187E7F17F82EBB04CE0A44C2654FB40EE406157C"
       }
     ]
   },
